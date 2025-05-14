@@ -181,5 +181,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧠 Credits
 
-Crafted with ❤️ and coffee by Mehdi Hassan and contributors.  
+Crafted with ❤️ and coffee by Mehdi and Ameer.  
 Inspired by Arabian architecture and modern app principles.
