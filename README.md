@@ -144,7 +144,7 @@ git push origin feature/your-feature-name
 
 - ✅ **Small commits**: Keep PRs under 300 lines if possible. Split into multiple PRs if needed
 
-- ✅ **Screenshots** (if UI): Include before/after images or GIFs
+- ✅ **Screenshots** (if UI): Include before/after images or GIFs ( Optional for Mehdi & Ameer )
 
 - ✅ **Review Feedback**: Address comments respectfully, update code, and mark resolved
 
